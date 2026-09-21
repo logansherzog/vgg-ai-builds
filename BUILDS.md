@@ -17,7 +17,7 @@ Where a build is waiting on someone, it says who. That's the useful part.
 
 ---
 
-## Main backlog (B1–B57)
+## Main backlog (B1–B58)
 
 | ID | Build | What it does | Owner | Unit | Status | Depends on |
 |---|---|---|---|---|---|---|
@@ -75,7 +75,7 @@ Where a build is waiting on someone, it says who. That's the useful part.
 
 ---
 
-## Added 21 September 2026 — from the meeting-archive mining pass (B52–B57)
+## Added 21 September 2026 — from the meeting-archive mining pass (B52–B58)
 
 Mined from 3,456 GCEO meetings, October 2020 to September 2026. These qualified on
 *recurrence over time*: the older a signal, the more separate meetings it had to appear in.
@@ -90,9 +90,24 @@ Full reasoning in [PROPOSED-B52-B57.md](PROPOSED-B52-B57.md).
 | B56 | Tender & Bid Discovery | Monitors tender/RFP sources, scores against capability, logs pursue/decline decisions | Ifeanyi Monyei | Executive Office | Proposed · **strongest unserved evergreen signal** | 188 meetings across 5 distinct years |
 | B57 | Spreadsheet-to-System Intake | Repeatable intake converting a hand-run spreadsheet into a governed system | Uche Ukonu | Central Ops | Proposed · the method behind B16/B18/B19 | 310 meetings across 5 years |
 
-**Not numbered, flagged:** a **commission management system** to automate cross-company payouts
-was raised in two separate meetings (24 and 28 July) and has no home in B1–B57. It may deserve a
-number; it hasn't been given one yet.
+### B58 — Commission Management  ⚠ **already staffed, owner unknown**
+
+| ID | Build | What it does | Owner | Unit | Status | Evidence |
+|---|---|---|---|---|---|---|
+| B58 | Commission Management | Calculates and automates commission across the 10–15 operating companies; agent-facing calculator | **Unidentified — someone was hired for this** | Group | **Do not build. Find the person first** | Two July meetings |
+
+At the mid-year townhall the GCEO said he had **hired somebody dedicated to building a commission
+management system**. Nobody on this board knows who that is or what state it is in. That makes B58
+the one entry here that is *not* a proposal — it is a build already underway, outside the backlog,
+with no visible owner.
+
+**Scope as described:** commission calculable across all 10–15 companies; the intended agent pool
+is roughly 400 employees plus 1,500 alumni; today there is no brochure and no calculator.
+
+**Duplication risk, flagged.** Four days after that townhall the GCEO also told subsidiaries to
+have *their own* finance teams build commission models and sales tools. So there is plausibly one
+central hire and several parallel subsidiary efforts on the same problem. **Identifying the
+central owner is the whole action** — it is a question, not a build.
 
 ---
 

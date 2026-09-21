@@ -71,8 +71,10 @@ Not duplicates, but close enough that someone should choose deliberately.
 Different documents give different totals, all of them defensible:
 
 - **48** — builds mined from the Leaders Series interviews, which is what the architecture covers
-- **57** — B-numbers issued in the main backlog today *(was 51; B52–B57 added 21 Sep)*
-- **~68** — every distinct build including MindLab, the VGN finance set, and the EduTech cases
+- **58** — B-numbers issued in the main backlog today *(was 51; B52–B58 added 21 Sep)*
+  Note **B58 is not a proposal** — it is a build already staffed outside the backlog, recorded so
+  nobody duplicates it
+- **~69** — every distinct build including MindLab, the VGN finance set, and the EduTech cases
 - **16** — the immediate-tier items **Q1–Q16**, tracked separately in
   [QUICK-WINS.md](QUICK-WINS.md). **Do not add these to the build count** — three of them are
   existing builds pointed at a new target, and the rest are single-mention asks that still need

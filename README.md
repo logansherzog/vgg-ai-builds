@@ -18,6 +18,8 @@ questions with no findable answer. This is the answer.
 Oct 2020 to Sep 2026 — produced two additions to this board:
 [QUICK-WINS.md](QUICK-WINS.md) (16 small, owned, startable items, 3 of them days of work)
 and [PROPOSED-B52-B57.md](PROPOSED-B52-B57.md) (6 structural builds plus 5 widenings).
+It also surfaced **B58**, a commission-management build the GCEO says is *already staffed* —
+recorded in [BUILDS.md](BUILDS.md) so nobody duplicates it.
 
 Read [BUILDS.md](BUILDS.md) for the full inventory, [STATUS.md](STATUS.md) for what each build is
 waiting on, [CAPABILITIES.md](CAPABILITIES.md) for how
@@ -26,7 +28,7 @@ any build number at anyone — several IDs collide.
 
 ## The count
 
-**~68 distinct builds.** 57 in the main B-numbered backlog, 7 from the VGP MindLab sessions,
+**~69 distinct builds.** 58 in the main B-numbered backlog, 7 from the VGP MindLab sessions,
 3 for VGN finance, plus the EduTech gate-1 use cases and the GCEO workstation track.
 
 | Status | Count | Meaning |

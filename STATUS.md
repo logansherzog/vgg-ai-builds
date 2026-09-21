@@ -46,6 +46,7 @@ Not a build problem. Someone has to choose.
 | B10 vs B20 | Two overlapping commercial roll-ups. Merge or separate deliberately |
 | Everything in Capability 4 | Which pipeline is canonical |
 | B5, B24, B37, B39, B45, B47 | Unplaced in the capability architecture. Proposed homes in [CAPABILITIES.md](CAPABILITIES.md) |
+| **B58 Commission Management** | **Who was hired to build it?** The GCEO said at the July townhall that someone is dedicated to this. Until that person is named, any work on commissions risks duplicating theirs — and subsidiaries were separately told to build their own models |
 
 ## Blocked on access
 
