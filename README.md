@@ -4,7 +4,7 @@ Every AI build proposed or shipped for Venture Garden Group, in one place, with 
 and an honest status.
 
 **Maintained by:** Logan Herzog, AI Consultant, Office of the Partners
-**Last updated:** 20 September 2026
+**Last updated:** 21 September 2026
 
 ---
 
@@ -13,6 +13,11 @@ and an honest status.
 The builds arrived in three waves, through three different channels, and no single list held
 them all. People kept asking "what's mine?" and "has this already been built?" — both fair
 questions with no findable answer. This is the answer.
+
+**New (21 Sep):** a full mining pass over the GCEO meeting archive — 3,456 meetings,
+Oct 2020 to Sep 2026 — produced two additions to this board:
+[QUICK-WINS.md](QUICK-WINS.md) (16 small, owned, startable items, 3 of them days of work)
+and [PROPOSED-B52-B57.md](PROPOSED-B52-B57.md) (6 structural builds plus 5 widenings).
 
 Read [BUILDS.md](BUILDS.md) for the full inventory, [STATUS.md](STATUS.md) for what each build is
 waiting on, [CAPABILITIES.md](CAPABILITIES.md) for how
