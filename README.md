@@ -26,7 +26,7 @@ any build number at anyone — several IDs collide.
 
 ## The count
 
-**~62 distinct builds.** 51 in the main B-numbered backlog, 7 from the VGP MindLab sessions,
+**~68 distinct builds.** 57 in the main B-numbered backlog, 7 from the VGP MindLab sessions,
 3 for VGN finance, plus the EduTech gate-1 use cases and the GCEO workstation track.
 
 | Status | Count | Meaning |
@@ -35,10 +35,16 @@ any build number at anyone — several IDs collide.
 | Sent, not tested | 2 | delivered, no evidence of use |
 | Staged | 3 | built or part-built, not confirmed live |
 | Plan written | 17 | a build plan exists and has been sent |
-| Proposed | ~39 | a one-pager, owner named, nothing built |
+| Proposed | ~45 | a one-pager, owner named, nothing built |
+
+Separately, **16 immediate-tier items (Q1–Q16)** in [QUICK-WINS.md](QUICK-WINS.md). They are
+**not** counted above: three are existing builds pointed at a new target, and the rest are
+single-mention asks awaiting owner confirmation.
 
 **One build is genuinely in daily use.** That number is the honest headline, and moving it is
-the point of the next month.
+the point of the next month. Adding six proposals and sixteen quick wins does not change it —
+which is the argument for spending the next stretch on Q1–Q3 and the three items in
+[STATUS.md](STATUS.md), all of which are finishing things rather than starting them.
 
 ## How the work runs
 

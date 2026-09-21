@@ -56,6 +56,7 @@ Not a build problem. Someone has to choose.
 | B12 | Write access to the tracking system |
 | LB-1, LB-2, LB-3 | A read-only Business Central service account |
 | E1 EduTech support tool | Owner sign-off, a baseline export, and a hosting decision for student data |
+| B45 / Q3 reply automation | **A Zoho API key from Kassim.** Flagged 28 Aug as "expected within days"; still outstanding three weeks later. This is the whole blocker |
 
 ## Sent and untested
 
@@ -67,15 +68,35 @@ Not a build problem. Someone has to choose.
 
 | Build | The conflict |
 |---|---|
-| B22 WhatsApp Prospect Capture | Recorded as "V1 exists"; there is no artifact or run evidence |
-| B45 Support-Triage Rollout | Recorded as "V1 exists"; the owner's own brief says nothing has been built |
+| B22 WhatsApp Prospect Capture | Recorded as "V1 exists"; there is no artifact or run evidence. A 10 Jul request asks for it to be **developed** for DealOS — which suggests it does not exist |
+
+**B45 is resolved.** A 28 Aug action item is to obtain a Zoho API key *in order to build* the
+reply automation. The owner's brief was right and "V1 exists" was wrong. B45 is now **blocked on
+access**, not unverified — see below.
 
 ---
 
 ## If only three things happen this month
 
-1. **Send Ayomide the updated Oil & Gas build.** It's finished. Someone is idle waiting for it.
+1. **Send Ayomide the updated Oil & Gas build.** It's finished. Someone is idle waiting for it —
+   and the cost of the wait is now concrete: on 4 August the same person said he would hand-build
+   an Excel CRM for a new vertical, which the finished build already does. Sending it is also the
+   cleanest live test of whether the shared-capability model holds (Q2).
 2. **Get Fireflies access and the data policy signed off.** Nine builds and the whole Context
    Graph sit behind it.
 3. **Name the Claude org Owner and flip one permission.** The single build in daily use is
    blocked by a toggle.
+
+**And one that costs a single message:** chase the Zoho API key for Q3/B45. It was called
+"expected within days" on 28 August and nothing else is in the way.
+
+---
+
+## The immediate tier
+
+Added 21 September. Sixteen small, owned, startable items mined from the last 75 days —
+see [QUICK-WINS.md](QUICK-WINS.md). They carry a different risk profile to everything above:
+each is a **single mention**, so some may already be done or assigned. Each needs one confirming
+message to its owner before scoping, not a meeting.
+
+Three of them (Q1–Q3) are existing builds pointed at a new target rather than new work.

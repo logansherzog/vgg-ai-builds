@@ -17,7 +17,7 @@ Where a build is waiting on someone, it says who. That's the useful part.
 
 ---
 
-## Main backlog (B1–B51)
+## Main backlog (B1–B57)
 
 | ID | Build | What it does | Owner | Unit | Status | Depends on |
 |---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Where a build is waiting on someone, it says who. That's the useful part.
 | B2 | Fireflies Consolidation | All staff recordings into one extraction store | Kayode Muyibi | Splashers | Plan written · **the key unlock** | data-handling policy, access sign-off |
 | B3 | Context Brief Engine | On-demand "what's going on with X" brief | Uche Ukonu | Chief of Staff | Proposed | B2 |
 | B4 | Leaders-Series → Newsletter | Interview → profile blurb in house voice | Tobi Bankole | Comms | Proposed | B1, B2 |
-| B5 | Ecosystem Capability Registry | Who inside VGG already does X, so units stop outsourcing it | Femi Shonubi | Edutech | Proposed · **unplaced** | capability placement |
+| B5 | Ecosystem Capability Registry | Who inside VGG already does X, so units stop outsourcing it | Femi Shonubi | Edutech | Proposed · **now has a live consumer**: a portfolio catalogue by vertical and geography was asked for 28 Jul | capability placement |
 | B6 | Live Org Graph | Self-maintaining organogram; flags ghost records | Uche Ukonu | Chief of Staff | Proposed | B2, HRIS access |
 | B7 | Finance Exec-Pack Drafter | Assembles the run-rate/cash pack plus narrative | Festus Ilesanmi | Advancly | Plan written · owner wants a meeting · **waiting on us** | — |
 | B8 | Multi-Lens Board Report | Board pack split into people / business / technology lenses | Otaren Iduoze | Advancly | Plan written | Phase IV gate |
@@ -42,11 +42,11 @@ Where a build is waiting on someone, it says who. That's the useful part.
 | B19 | BGP New-Business CRM | The consultative FMCG/fintech sales motion | Ibijoke Oyewole | BGP / Vigipay | Sent, silent | B16, workflow doc |
 | B20 | Group Sales-Ops Pipeline | Aggregates leads/won/lost across subsidiaries | Moyo Asubiojo | Edutech | **Yes, gated on cost per subsidiary** | workflow doc |
 | B21 | Stakeholder Keep-Warm CRM | Partner/board tracker: last touch, sentiment, next nudge | Moyo Asubiojo | Edutech | Proposed | workflow doc |
-| B22 | WhatsApp Prospect Capture | Parses prospect threads → proposed CRM diffs | Adeosun Ayomide | Vigipay / Zenvo | **Unverified** — "V1 exists" is unsupported | B16 |
+| B22 | WhatsApp Prospect Capture | Parses prospect threads → proposed CRM diffs | Adeosun Ayomide | Vigipay / Zenvo | **Unverified** — "V1 exists" is unsupported, and a 10 Jul request asks for it to be *developed* for DealOS, which points the same way | B16 |
 | B23 | Edutech GTM Rollout | Points the existing GTM skill at the Edutech ICP | Moyo Asubiojo | Edutech Global | Identified, not started | existing GTM skill |
-| B24 | Market-Intelligence Base | Competitor and market research → living repository | Lukmon Sanni | Growth / Mgmt Office | Proposed · **unplaced** | — |
+| B24 | Market-Intelligence Base | Competitor and market research → living repository | Lukmon Sanni | Growth / Mgmt Office | Proposed · **now has a live consumer**: a recurring technical council asked for regular market-intelligence input | — |
 | B25 | Onboarding Intake Copilot | New-hire docs + checks → clean employee record | Kate Ogbuka | People OS | Plan written · owner said yes | HRIS access |
-| B26 | Group People Dashboard | Headcount/attrition/onboarding across ~15 entities | Kate Ogbuka | People OS | Plan written | data remediation |
+| B26 | Group People Dashboard | Headcount/attrition/onboarding across ~15 entities | Kate Ogbuka | People OS | Plan written · **a second owner asked for this on 18 Jul with an explicit 30–60 day box** — that clock is half spent | data remediation |
 | B27 | Recognition Autopilot | Milestone events → drafted message for approval | Otaren Iduoze | Advancly P&C | Plan written | HRIS events, B28 |
 | B28 | Birthday DB Fixer | Cleans the birthday database, tracks and reminds | Executive Office (EA team) | GCEO office | Proposed · **raised 3× by the GCEO** | HRIS hygiene |
 | B29 | People OS Template Engine | The right HR document per entity and situation | Fiyinfoluwa Sanwo | People OS | Sent · out-of-office only | — |
@@ -57,7 +57,7 @@ Where a build is waiting on someone, it says who. That's the useful part.
 | B34 | Regulated-Ops Suite | Reconciliation, compliance checks, transaction monitoring | Banke Ajayi | Regulated entities | Proposed | beachhead entity + approver |
 | B35 | Meeting → Proposal Extractor | Ambiguous conversation → proposal or plan skeleton | Melissa Omede | Manco | Plan written · yes · **biggest reuse: analyst is the largest role** | B2 |
 | B36 | Concept-Note Engine | First-draft partnership proposals and stakeholder decks | Lukmon Sanni | Growth / Mgmt Office | Sent, silent | Phase IV gate, B3 |
-| B37 | Living SOP System | Proposes SOP updates from how work actually runs | Melissa Omede | Manco | Plan written · **unplaced** | — |
+| B37 | Living SOP System | Proposes SOP updates from how work actually runs | Melissa Omede | Manco | Plan written · **widen to the EA function** — 85 EA meetings show SOPs and checklists being hand-written per person | — |
 | B38 | Newsletter Auto-Draft | Harvests wins → monthly newsletter draft in house voice | Chuka Monyei | Central Ops | Sent, silent | — |
 | B39 | Distribution Reconcile | Authoritative all-staff list from HR data; delivery tracking | Chuka Monyei | Central Ops | Proposed · **unplaced** | HR roster |
 | B40 | Bio / Profile Generator | Short exec bios on request, two lengths | Executive Office (EA team) | GCEO office | Proposed | **hard dependency on B1** |
@@ -65,13 +65,53 @@ Where a build is waiting on someone, it says who. That's the useful part.
 | B42 | Deal / Legal Tracker | Record of portfolio legal status and obligations | Uloma Herrington | Greenhouse Capital | Plan written | — |
 | B43 | Policy Assistant (AiDA rebuild) | Policy/HR FAQ with a maintained, cited knowledge base | Otaren Iduoze + Sunday Ocheli | Advancly P&C + Splashers | Plan written · owner sees it as useful but not a current pain point | policy corpus |
 | B44 | Infra Runbook Registry | Site history and access procedures out of one head into a base | Sunday Ocheli + Kayode Muyibi | Splashers | Sent · replied, **reply unread (encrypted)** | knowledge-transfer sessions |
-| B45 | Support-Triage Rollout | Expands the support-triage assistant across units | Ann Anni | EduTech Support | **Unverified** — "V1 exists" conflicts with "nothing built" · unplaced | — |
+| B45 | Support-Triage Rollout | Expands the support-triage assistant across units | Ann Anni | EduTech Support | **Resolved: nothing is built.** A 28 Aug action item is to obtain a Zoho API key *in order to build* the reply automation — so E1 is right and "V1 exists" was wrong. Blocked only on that key | Zoho API key |
 | B46 | BMC Request Intake | 10-question intake → structured brief with gaps flagged | Taiwo Oluwafemi | BMC (EduTech) | **Sent Sep 8, never tested** | — |
 | B47 | EA Scheduling Assistant | Itinerary builds, cross-account conflict detection | Adeyinka Oshin | Executive Office | Sent, silent · unplaced | B49 feeds it |
 | B48 | ERP through Claude | Act on the ERP without a new login; integration hub | ERP team (Splashers) | Splashers | **Yes, Sep 18** — plan owed · GCEO priority | ERP API identity |
 | B49 | Priority Meeting Queue | Who the GCEO wants to meet, by priority and city; nightly open slots and chases | Adeyinka Oshin + EA team | Executive Office | Plan written, sent Sep 17 | feeds B47 |
 | B50 | Convening Invite-List | Names → scored, tiered 30-name shortlist with reasons | Adeyinka Oshin + EA team | Executive Office | Plan written, sent Sep 17 | B1, B21 |
 | B51 | Meeting → Money | Post-meeting card: the need, the commercial opening, next step and owner | Adeosun Ayomide | Vigipay | Plan written, sent Sep 17 | B2, B10, B36 |
+
+---
+
+## Added 21 September 2026 — from the meeting-archive mining pass (B52–B57)
+
+Mined from 3,456 GCEO meetings, October 2020 to September 2026. These qualified on
+*recurrence over time*: the older a signal, the more separate meetings it had to appear in.
+Full reasoning in [PROPOSED-B52-B57.md](PROPOSED-B52-B57.md).
+
+| ID | Build | What it does | Owner | Unit | Status | Evidence |
+|---|---|---|---|---|---|---|
+| B52 | Commitment Register | Extracts weekly stated commitments, re-checks them at the next call, reports kept vs slipped | Uche Ukonu + Chuka Monyei | Central Ops | Proposed · **extends OpenOps/B12, not a parallel tracker** | 100 commitment calls across 4 calendar years |
+| B53 | Meeting Follow-Through Provisioning | Proposes the post-meeting package — channel, contacts, promised intros — for one-click approval | Adeyinka Oshin | Executive Office | Proposed · feeds B47 and B22 | 73 meetings over 3 years of doing it by hand |
+| B54 | Treasury Data Capture | Establishes the bank-data feed under treasury reporting, with provenance | Melissa Omede + Festus Ilesanmi | Manco / Advancly | Proposed · **capture gap beneath B7/B11** | 15 meetings over 423 days |
+| B55 | Board & Committee Governance Ops | Governance calendar against required cadence, committee composition, member follow-up | Moyo Asubiojo | Board Relations | Proposed · distinct from B8, which writes the report | 67 board meetings across 5 years |
+| B56 | Tender & Bid Discovery | Monitors tender/RFP sources, scores against capability, logs pursue/decline decisions | Ifeanyi Monyei | Executive Office | Proposed · **strongest unserved evergreen signal** | 188 meetings across 5 distinct years |
+| B57 | Spreadsheet-to-System Intake | Repeatable intake converting a hand-run spreadsheet into a governed system | Uche Ukonu | Central Ops | Proposed · the method behind B16/B18/B19 | 310 meetings across 5 years |
+
+**Not numbered, flagged:** a **commission management system** to automate cross-company payouts
+was raised in two separate meetings (24 and 28 July) and has no home in B1–B57. It may deserve a
+number; it hasn't been given one yet.
+
+---
+
+## Immediate tier (Q1–Q16)
+
+The B52–B57 gate required a pattern to recur across separate days, which by construction
+discarded every concrete one-off ask from recent weeks. Re-mining the same corpus for
+*concreteness* instead returned **118 build requests in 75 days**; 16 are small, owned and
+startable. Full list in [QUICK-WINS.md](QUICK-WINS.md).
+
+**Q1–Q3 are existing builds pointed at a new target**, which makes them the cheapest work on
+this board:
+
+| Q | Ask | Owner | Reuses |
+|---|---|---|---|
+| Q1 | WhatsApp → DealOS deal entry | Greenhouse team | B22 |
+| Q2 | Excel CRM for a new vertical — the owner said he would hand-build it | Adeosun Ayomide | B16 |
+| Q3 | Customer-success reply automation, blocked only on a Zoho API key | Banke Ajayi / Logan | B45 |
+
 
 ---
 

@@ -1,6 +1,6 @@
-# Nine capabilities, not sixty-two builds
+# Nine capabilities, not sixty-eight builds
 
-Sixty-two builds is a list, not a plan. Most of them are the same four or five machines pointed
+Sixty-eight builds is a list, not a plan. Most of them are the same four or five machines pointed
 at different departments — a CRM for oil and gas is the same object as a CRM for power, and both
 are the same object as the BGP new-business tracker.
 
@@ -13,15 +13,19 @@ subsidiary then becomes a *configuration*, not a project.
 
 | # | Capability | Phase | Builds it absorbs |
 |---|---|---|---|
-| 1 | **Capture & Signal Engine** | I | B2 (the substrate) · B22 generalised into a channel adapter · the capture halves of B12, B13, B35 |
+| 1 | **Capture & Signal Engine** | I | B2 (the substrate) · B22 generalised into a channel adapter · the capture halves of B12, B13, B35 · **B53** · **B54** (the bank-data feed) |
 | 2 | **Context Graph + Decision Ledger** | I | B1 · B3 · B6 · B44 · B40 · *(proposed)* B5 · *(proposed)* B24 · plus the Decision Ledger, which is new |
-| 3 | **Execution Management** | II | B12 · B13 · B14 · B46 · the commitment-capture half of B35 |
-| 4 | **Commercial OS** | II | B16 (the template) · B17 · B18 · B19 · B20 · B21 · B23 · B10 · B42 |
+| 3 | **Execution Management** | II | B12 · B13 · B14 · B46 · the commitment-capture half of B35 · **B52** |
+| 4 | **Commercial OS** | II | B16 (the template) · B17 · B18 · B19 · B20 · B21 · B23 · B10 · B42 · **B56** |
 | 5 | **People OS** | III | B25 · B26 · B27 · B28 · B29 · B30 · B31 · *(proposed)* B39 |
-| 6 | **Finance Intelligence** | III | B7 · B9 · B11 · B33 · B48 as the access layer · LB-1/2/3 unmapped |
-| 7 | **Governance & Controlled Workflow** | III | B32 · B34 · B41 · B43 · *(proposed)* B37 |
+| 6 | **Finance Intelligence** | III | B7 · B9 · B11 · B33 · B48 as the access layer · LB-1/2/3 unmapped · **B54** consumed here, captured in Capability 1 |
+| 7 | **Governance & Controlled Workflow** | III | B32 · B34 · B41 · B43 · *(proposed)* B37 · **B55** |
 | 8 | **Organisational Artifact Engine** | IV, gated | B4 · B8 · B36 · B38 · the narrative half of B7 · the drafting half of B35 |
 | 9 | **AI Interface** | I — deliberately early | B15 · *(proposed)* B47 · *(proposed)* B45 |
+
+**B57 does not sit inside a capability — it is how the others get instantiated.** The
+spreadsheet-to-system intake is the repeatable method behind every Commercial OS and People OS
+configuration. Treating it as a build in its own right is what stops each new unit being a project.
 
 **Capability 3 is roughly 60% built already.** It extends the existing tracking systems rather
 than standing up a parallel one — which is the difference between adoption and another dashboard
