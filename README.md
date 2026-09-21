@@ -14,7 +14,8 @@ The builds arrived in three waves, through three different channels, and no sing
 them all. People kept asking "what's mine?" and "has this already been built?" — both fair
 questions with no findable answer. This is the answer.
 
-Read [BUILDS.md](BUILDS.md) for the full inventory, [CAPABILITIES.md](CAPABILITIES.md) for how
+Read [BUILDS.md](BUILDS.md) for the full inventory, [STATUS.md](STATUS.md) for what each build is
+waiting on, [CAPABILITIES.md](CAPABILITIES.md) for how
 the builds consolidate into nine shared capabilities, and [ID-MAP.md](ID-MAP.md) before quoting
 any build number at anyone — several IDs collide.
 
